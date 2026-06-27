@@ -10,7 +10,7 @@ export const content: RomanticContent = {
     title: "Сирень",
     artist: "для тебя",
     piano: "/bakr-siren.mp3",
-    celebration: "/bakr-siren.mp3"
+    celebration: "/bakr-siren.mp3" 
   },
   opening: {
     prelude: "Мне нужно сказать тебе кое-что важное...",
