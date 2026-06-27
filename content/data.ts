@@ -4,7 +4,7 @@ export const content: RomanticContent = {
   site: {
     title: "Для той самой",
     description: "Кинематографичное признание в любви со звёздами, музыкой, воспоминаниями и одним важным вопросом.",
-    url: "https://example.com"
+    url: process.env.NEXT_PUBLIC_SITE_URL || "https://mylove-7cwc.vercel.app/"
   },
   music: {
     title: "Сирень",
